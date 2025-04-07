@@ -12,3 +12,4 @@ pandas
 seaborn
 Pillow
 ultralytics
+timm
